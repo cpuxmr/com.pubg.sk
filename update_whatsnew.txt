@@ -1,1 +1,4 @@
-
+* No ban warning.
+* Grass removed.
+* Smoke of smoke granade removed.
+* Less fog.
